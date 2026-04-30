@@ -1,6 +1,6 @@
 # Par défaut, tout le groupe est responsable
-*       KelvinCVL
+*       @KelvinCVL
 
 # Sections spécifiques par "Owner"
-/docs/07-modules.md    Alexandre
-/docs/11-adr/          Omar
+/docs/07-modules.md    
+/docs/11-adr/          
