@@ -1,1 +1,6 @@
+# Par défaut, tout le groupe est responsable
+*       KelvinCVL
 
+# Sections spécifiques par "Owner"
+/docs/07-modules.md    Alexandre
+/docs/11-adr/          Omar
